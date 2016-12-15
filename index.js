@@ -32,9 +32,6 @@ exports.decorateConfig = (config) => (
     cursorShape: 'BEAM',
     fontFamily: '"Meslo LG L", Menlo, "DejaVu Sans Mono", "Lucida Console", monospace',
     colors,
-    termCSS: `
-
-    `,
     css: `
       ${config.css || ''}
     `
