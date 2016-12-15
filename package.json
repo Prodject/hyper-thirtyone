@@ -1,6 +1,6 @@
 {
   "name": "hyper-thirtyone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A slightly modified classic linux terminal theme for Hyper",
   "main": "index.js",
   "scripts": {
