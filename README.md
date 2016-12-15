@@ -1,4 +1,4 @@
 # hyper-thirtyone
 Slightly modified classic linux terminal theme for Hyper.
 
-It uses https://github.com/andreberg/Meslo-Font for a more readable line spacing.
+It uses [Meslo LG L](https://github.com/andreberg/Meslo-Font) font for a more readable line spacing.
