@@ -7,7 +7,7 @@ It uses [Meslo LG L](https://github.com/andreberg/Meslo-Font) font for a more re
 
 ### Install
 
-1. Edit HyperTerm's preferences (`~/.hyperterm.js`).
+1. Edit Hyper's preferences (`~/.hyper.js`).
 2. Add the plugin:
   
   ```js
