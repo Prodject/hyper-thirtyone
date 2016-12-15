@@ -1,2 +1,4 @@
 # hyper-thirtyone
-My personal theme for Hyper
+Slightly modified classic linux terminal theme for Hyper.
+
+It uses https://github.com/andreberg/Meslo-Font for a more readable line spacing.
